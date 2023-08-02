@@ -1,9 +1,32 @@
-<mxfile host="app.diagrams.net" modified="2023-08-02T08:47:51.922Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" version="21.6.6" etag="UFO0naf4zS4wxm2qL3C3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-02T09:49:15.115Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="hCbVwE0DCAAprzw8wUoe" version="21.6.6" type="github">
   <diagram name="第 1 页" id="TQMnob1m8alMGRBXA5N_">
-    <mxGraphModel>
+    <mxGraphModel dx="1140" dy="576" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="7tklfOi8L_BLUwcYPRMb-1" value="狗" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="108" y="56" width="160" height="190" as="geometry">
+            <mxRectangle x="108" y="56" width="47" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7tklfOi8L_BLUwcYPRMb-2" value="+ 名字: String&lt;br&gt;+ 品种: String&lt;br&gt;+ 年龄: Integer&lt;br&gt;+ 颜色: String&lt;br&gt;+ 性别: Integer&lt;br&gt;+ 喜欢的食物: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="7tklfOi8L_BLUwcYPRMb-1">
+          <mxGeometry y="26" width="160" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="7tklfOi8L_BLUwcYPRMb-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="7tklfOi8L_BLUwcYPRMb-1">
+          <mxGeometry y="125" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="7tklfOi8L_BLUwcYPRMb-4" value="+ 摇尾巴(): void&lt;br&gt;+ 进食(): void&lt;br&gt;+ 睡觉(): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="7tklfOi8L_BLUwcYPRMb-1">
+          <mxGeometry y="133" width="160" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="7tklfOi8L_BLUwcYPRMb-5" value="Katie：狗" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="339" y="56" width="160" height="133" as="geometry" />
+        </mxCell>
+        <mxCell id="7tklfOi8L_BLUwcYPRMb-6" value="名字=Katie&lt;br&gt;品种=牧羊犬&lt;br&gt;年龄=1&lt;br&gt;颜色=黑白&lt;br&gt;性别=母&lt;br&gt;喜欢的食物=猫条" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="7tklfOi8L_BLUwcYPRMb-5">
+          <mxGeometry y="26" width="160" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="7tklfOi8L_BLUwcYPRMb-7" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="7tklfOi8L_BLUwcYPRMb-5">
+          <mxGeometry y="125" width="160" height="8" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
