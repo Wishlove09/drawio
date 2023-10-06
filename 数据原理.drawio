@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-06T14:22:43.474Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="Go0FAp8UNZrcYFRXPu5q" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-06T14:26:27.065Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="ozcRPWX6CZiclXHnwMWu" version="21.7.5" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1980" dy="488" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="2185" dy="617" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -173,7 +173,7 @@
         <mxCell id="lbiJdHwen5PBFrmT2Bng-82" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="lbiJdHwen5PBFrmT2Bng-83" target="lbiJdHwen5PBFrmT2Bng-81">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lbiJdHwen5PBFrmT2Bng-83" value="职工编号" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="lbiJdHwen5PBFrmT2Bng-83" value="职工编号" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4" vertex="1" parent="1">
           <mxGeometry x="-1041" y="432" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lbiJdHwen5PBFrmT2Bng-84" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="lbiJdHwen5PBFrmT2Bng-85" target="lbiJdHwen5PBFrmT2Bng-81">
