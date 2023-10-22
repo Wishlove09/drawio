@@ -1,9 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2023-10-22T14:38:01.958Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" version="22.0.6" etag="9sraGT8RyfLaF80J7un0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-22T15:13:19.885Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="m5XgOllhUT8ej3-6hsNh" version="22.0.6" type="github">
   <diagram name="第 1 页" id="3lVjMvXGMsNSBRNJ-Gpm">
-    <mxGraphModel>
+    <mxGraphModel dx="535" dy="314" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="XecLKfTDn2Nf4i1a0BZ--1" value="学生" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="168" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XecLKfTDn2Nf4i1a0BZ--3" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="220" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XecLKfTDn2Nf4i1a0BZ--4" value="教师" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="267" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XecLKfTDn2Nf4i1a0BZ--18" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;" edge="1" parent="1" source="XecLKfTDn2Nf4i1a0BZ--3" target="XecLKfTDn2Nf4i1a0BZ--1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="68" y="404" as="sourcePoint" />
+            <mxPoint x="228" y="404" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XecLKfTDn2Nf4i1a0BZ--19" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;" edge="1" parent="1" source="XecLKfTDn2Nf4i1a0BZ--3" target="XecLKfTDn2Nf4i1a0BZ--4">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="118" y="277" as="sourcePoint" />
+            <mxPoint x="218" y="223" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XecLKfTDn2Nf4i1a0BZ--20" value="教师" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="413" width="30" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
